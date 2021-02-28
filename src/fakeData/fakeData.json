@@ -1,0 +1,113 @@
+[
+    {
+        "id": 1,
+        "name": "Nymer jr",
+        "country": "Brazil",
+        "email": "nymer@gmail.com",
+        "club": "Barcelona",
+        "salary": 98210,
+        "img": "https://i.ibb.co/XSwNDTq/nymer.jpg"
+        },
+    {
+        "id": 2,
+        "name": "Leonel Messi",
+        "country": "Argentina",
+        "email": "messi@gmail.com",
+        "club": "Barcelona",
+        "salary": 8210,
+        "img": "https://i.ibb.co/9tGWbxr/messi.jpg?"
+      },
+    {
+        "id": 3,
+        "name": "Cristiano Ronaldo",
+        "country": "purtogal",
+        "email": "cr7@gmail.com",
+        "club": "Real Madrid",
+        "salary": 65210,
+        "img": "https://i.ibb.co/g9PtTNK/ronaldo.jpg"
+      },
+    {
+        "id": 4,
+        "name": "Mohammad Salah",
+        "country": "Egypt",
+        "email": "kaka@gmail.com",
+        "club": "Real Madrid",
+        "salary": 326210,
+        "img": "https://i.ibb.co/KGHs6nT/salah.jpg"
+      },
+    {
+        "id": 5,
+        "name": "Kalo Manik Pele",
+        "country": "Brazil",
+        "email": "play@gmail.com",
+        "club": "Man City",
+        "salary": 75210,
+        "img": "https://i.ibb.co/wsqz3rP/pele.jpg"
+      },
+    {
+        "id": 6,
+        "name": "Maradona",
+        "country": "Argentina",
+        "email": "maradona@gmail.com",
+        "club": "Man City",
+        "salary": 75210,
+        "img": "https://i.ibb.co/J7wZ6ht/maradona.jpg"
+      },
+    {
+        "id": 7,
+        "name": "Wayne Rooney",
+        "country": "England",
+        "email": "rooney@gmail.com",
+        "club": "PSG",
+        "salary": 45210,
+        "img": "https://i.ibb.co/RGKvKqb/rooney.jpg"
+      },
+    {
+        "id": 8,
+        "name": "Andres Iniesta",
+        "country": "Spain",
+        "email": "inista@gmail.com",
+        "club": "Barcelona",
+        "salary": 325210,
+        "img": "https://i.ibb.co/XC6GhLJ/iniesta.jpg"
+      },
+      
+    {
+        "id": 9,
+        "name": "Mesut Özil",
+        "country": "German",
+        "email": "ozil@gmail.com",
+        "club": "Real Madrid",
+        "salary": 1245210,
+        "img": "https://i.ibb.co/Y2LWdQz/ozil.png"
+      },
+    {
+        "id": 10,
+        "name": "David Villa",
+        "country": "Spain",
+        "email": "vila@gmail.com",
+        "club": "Barcelona",
+        "salary": 100210,
+        "img": "https://i.ibb.co/X5LLFc1/villa.jpg"
+      },
+      
+    {
+        "id": 11,
+        "name": "Zinedine Zidane",
+        "country": "France",
+        "email": "zidan@gmail.com",
+        "club": "Barcelona",
+        "salary": 10000,
+        "img": "https://i.ibb.co/RPGHcsX/ziden.jpg"
+      },
+    {
+        "id": 12,
+        "name": "Kylian Mbappé",
+        "country": "France",
+        "email": "mbappe@gmail.com",
+        "club": "Barcelona",
+        "salary": 451000,
+        "img": "https://i.ibb.co/N7ByMtR/mbappe.jpg"
+      }
+      
+]

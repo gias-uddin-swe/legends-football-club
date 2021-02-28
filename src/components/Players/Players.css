@@ -1,0 +1,17 @@
+.profile-pic img {
+  width: 90px;
+  border-radius: 50px;
+}
+.info-main-div {
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  width: 330px;
+  height: 430px;
+  box-shadow: 10px 10px 20px gray;
+  border-radius: 5px;
+}
+
+.parent-div {
+  float: left;
+}

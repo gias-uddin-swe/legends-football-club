@@ -1,0 +1,8 @@
+.players {
+  display: flex;
+}
+.players-info-div {
+  width: 70%;
+}
+.selected-players {
+}
